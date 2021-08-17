@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donovanbush
 - 👀 I’m interested in data analysis and modeling
 - 🌱 I’m currently learning Python, R, and SQL
-- 💞️ I’m looking to collaborate on projects that can improve my capapbilties in Python using Pandas, matplotlib, and seaborn
+- 💞️ I’m looking to collaborate on projects that can improve my capapbilties in Python using pandas, matplotlib, and seaborn
 - 📫 How to reach me donovanbush2000@gmail.com
 
 <!---
